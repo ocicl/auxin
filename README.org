@@ -4,6 +4,6 @@ Auxiliary Utilities for Generative Art
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/inconvergent/auxin.git |
-| commit  | c083c0f                                       |
+| commit  | 5425af3                                       |
 | systems | auxin                                         |
 |---------+-----------------------------------------------|
